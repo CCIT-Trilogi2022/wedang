@@ -8,7 +8,7 @@ This project was made for Intern purpose about IoT System Intregation and UI Mon
 # Instructions
 1. Download this repo as zip file
 2. extract it 
-3. and open it at VisualStudioCodes, ArduinoIde
+3. and open it at VisualStudioCodes, ArduinoIDE
 4. run it 
    
 # RESULTS
